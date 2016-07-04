@@ -1,4 +1,4 @@
-#<a href="http://ricardolv.pythonanywhere.com/" target="_blank">my-first-blog</a>
+#[my-first-blog](http://ricardolv.pythonanywhere.com)
 
 
-Reference: [Tutorial Django Girls](http://tutorial.djangogirls.org/)
+Reference: [Tutorial Django Girls](http://tutorial.djangogirls.org)
